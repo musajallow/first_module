@@ -1,5 +1,5 @@
 {
-  "name": "moses/2018/first_module",
+  "name": "moses/first-module",
   "description": "First test module for Magento ",
   "type": "magento2-module",
   "version": "0.0.1",
