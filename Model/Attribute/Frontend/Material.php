@@ -1,6 +1,6 @@
 <?php
 
-namespace Moses\Firstmodule\ClothingMaterial\Model\Attribute\Frontend;
+namespace Moses\Firstmodule\Model\Attribute\Frontend;
 
 class Material extends \Magento\Eav\Model\Entity\Attribute\Frontend\AbstractFrontend
 {

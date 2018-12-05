@@ -5,7 +5,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Moses\Firstmodule\ClothingMaterial\Model\Attribute\Backend;
+namespace Moses\Firstmodule\Model\Attribute\Backend;
 
 class Material extends \Magento\Eav\Model\Entity\Attribute\Backend\AbstractBackend
 {

@@ -2,7 +2,7 @@
   "name": "moses/first-module",
   "description": "First test module for Magento ",
   "type": "magento2-module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repositories": [
     {
       "type": "composer",
