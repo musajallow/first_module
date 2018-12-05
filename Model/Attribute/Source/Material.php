@@ -5,7 +5,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Learning\ClothingMaterial\Model\Attribute\Source;
+namespace Moses\Firstmodule\ClothingMaterial\Model\Attribute\Source;
 
 class Material extends \Magento\Eav\Model\Entity\Attribute\Source\AbstractSource
 {
