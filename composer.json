@@ -1,0 +1,21 @@
+{
+  "name": "moses/2018/first_module",
+  "description": "First test module for Magento ",
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.magento.com/"
+    }
+  ],
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
